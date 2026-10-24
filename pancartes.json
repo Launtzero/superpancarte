@@ -1026,5 +1026,43 @@
     "origine": "auteur",
     "source": "",
     "envoi": "2026-10-24T16:56:27Z"
+  },
+  {
+    "id": "2jd1DJA",
+    "image": "2jd1DJA.webp",
+    "texte": "Salut c’est Frank le keuf, vous voulez savoir combien vaut votre œil ?",
+    "tags": [
+      "police",
+      "humour",
+      "dessin"
+    ],
+    "ville": "Marseille",
+    "date": "2026-10-24",
+    "cause": "Police",
+    "w": 1400,
+    "h": 787,
+    "alt": "Pancarte en carton peinte en noir avec un écusson CRS dessiné en rouge : « Salut c’est Frank le keuf, vous voulez savoir combien vaut votre œil ? »",
+    "origine": "auteur",
+    "source": "",
+    "envoi": "2026-10-24T18:26:17Z"
+  },
+  {
+    "id": "zEB2Gxa",
+    "image": "zEB2Gxa.webp",
+    "texte": "− de CRS + de caresses",
+    "tags": [
+      "police",
+      "jeu de mots",
+      "dessin"
+    ],
+    "ville": "Marseille",
+    "date": "2026-10-24",
+    "cause": "Police",
+    "w": 1050,
+    "h": 1400,
+    "alt": "Pancarte en carton aux lettres fluo roses, vertes et bleues ornée de fleurs : « − de CRS + de caresses »",
+    "origine": "auteur",
+    "source": "",
+    "envoi": "2026-10-24T18:19:38Z"
   }
 ]
