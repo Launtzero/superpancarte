@@ -932,5 +932,43 @@
     "origine": "auteur",
     "source": "",
     "envoi": "2026-10-24T14:20:25Z"
+  },
+  {
+    "id": "gbPWOBd",
+    "image": "gbPWOBd.webp",
+    "texte": "Votre mépris nourrit notre rage",
+    "tags": [
+      "colère",
+      "politique"
+    ],
+    "ville": "Marseille",
+    "date": "2026-10-24",
+    "cause": "",
+    "w": 1050,
+    "h": 1400,
+    "alt": "Pancarte en carton peinte en lettres bleues, orange et rouges : « Votre mépris nourrit notre rage »",
+    "origine": "auteur",
+    "source": "",
+    "envoi": "2026-10-24T15:25:04Z"
+  },
+  {
+    "id": "la2VlKp",
+    "image": "la2VlKp.webp",
+    "texte": "Gros cacapitaliste",
+    "tags": [
+      "fin du monde",
+      "argent",
+      "jeu de mots",
+      "humour"
+    ],
+    "ville": "Marseille",
+    "date": "2026-10-24",
+    "cause": "Fin du monde",
+    "w": 1050,
+    "h": 1400,
+    "alt": "Pancarte découpée en forme de milliardaire caricaturé, une crotte dessinée sur la tête : « Gros cacapitaliste »",
+    "origine": "auteur",
+    "source": "",
+    "envoi": "2026-10-24T14:50:37Z"
   }
 ]
