@@ -970,5 +970,61 @@
     "origine": "auteur",
     "source": "",
     "envoi": "2026-10-24T14:50:37Z"
+  },
+  {
+    "id": "ArRAzKo",
+    "image": "ArRAzKo.webp",
+    "texte": "If we burn, you burn with us – Katniss Everdeen",
+    "tags": [
+      "insurrection",
+      "détournement",
+      "dessin"
+    ],
+    "ville": "",
+    "date": "2026-10-17",
+    "cause": "Insurrection",
+    "w": 1400,
+    "h": 1050,
+    "alt": "Pancarte en carton peinte avec le geai moqueur doré de Hunger Games : « If we burn, you burn with us »",
+    "origine": "auteur",
+    "source": "",
+    "envoi": "2026-10-24T16:53:47Z"
+  },
+  {
+    "id": "EqVvKb4",
+    "image": "EqVvKb4.webp",
+    "texte": "Fire is catching",
+    "tags": [
+      "manque de moyens",
+      "détournement",
+      "dessin"
+    ],
+    "ville": "",
+    "date": "2026-10-17",
+    "cause": "Manque de moyens",
+    "w": 1050,
+    "h": 1400,
+    "alt": "Pancarte peinte de grandes flammes et d’une main faisant le salut à trois doigts : « Fire is catching »",
+    "origine": "auteur",
+    "source": "",
+    "envoi": "2026-10-24T16:55:08Z"
+  },
+  {
+    "id": "EqVvKrA",
+    "image": "EqVvKrA.webp",
+    "texte": "Et ils diront qu’on est à armes égales",
+    "tags": [
+      "police",
+      "dessin"
+    ],
+    "ville": "",
+    "date": "2026-10-17",
+    "cause": "Police",
+    "w": 1400,
+    "h": 1050,
+    "alt": "Pancarte découpée en forme de fusil d’assaut peint en camouflage rose et vert : « Et ils diront qu’on est à armes égales »",
+    "origine": "auteur",
+    "source": "",
+    "envoi": "2026-10-24T16:56:27Z"
   }
 ]
