@@ -1140,5 +1140,42 @@
     "origine": "auteur",
     "source": "",
     "envoi": "2026-10-25T22:13:22Z"
+  },
+  {
+    "id": "je4q6lY-1",
+    "image": "je4q6lY-1.webp",
+    "texte": "Vindiou ! C’est les crépuscules",
+    "tags": [
+      "humour",
+      "jeu de mots"
+    ],
+    "ville": "Marseille",
+    "date": "2026-10-26",
+    "cause": "",
+    "w": 1050,
+    "h": 1400,
+    "alt": "Pancarte en carton brandie à bout de bras, lettres noires soulignées de jaune : « Vindiou ! C’est les crépuscules »",
+    "origine": "auteur",
+    "source": "",
+    "envoi": "2026-10-26T09:11:52Z"
+  },
+  {
+    "id": "je4q6lY-2",
+    "image": "je4q6lY-2.webp",
+    "texte": "Qu’on leur donne des brioches !",
+    "tags": [
+      "détournement",
+      "histoire",
+      "argent"
+    ],
+    "ville": "Marseille",
+    "date": "2026-10-26",
+    "cause": "",
+    "w": 1050,
+    "h": 1400,
+    "alt": "Pancarte en carton aux lettres noires tenue devant le visage : « Qu’on leur donne des brioches ! »",
+    "origine": "auteur",
+    "source": "",
+    "envoi": "2026-10-26T09:11:52Z"
   }
 ]
