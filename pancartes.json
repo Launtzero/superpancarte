@@ -1292,5 +1292,24 @@
     "origine": "auteur",
     "source": "",
     "envoi": "2026-10-30T16:20:09Z"
+  },
+  {
+    "id": "dbJMQEN",
+    "image": "dbJMQEN.webp",
+    "texte": "Manu, nous, la rue, on la traverse pas, on la prend. (Et c’est pour trouver un avenir sans toi.)",
+    "tags": [
+      "social",
+      "politique",
+      "détournement"
+    ],
+    "ville": "Paris",
+    "date": "2026-10-31",
+    "cause": "Social",
+    "w": 1050,
+    "h": 1400,
+    "alt": "Pancarte en carton brandie sous un ciel bleu : « Manu, nous, la rue, on la traverse pas, on la prend. »",
+    "origine": "auteur",
+    "source": "",
+    "envoi": "2026-11-01T12:00:12Z"
   }
 ]
