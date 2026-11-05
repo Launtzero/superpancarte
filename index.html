@@ -50,8 +50,9 @@ button:focus-visible,a:focus-visible,.tile:focus-visible{outline:3px solid var(-
 
 main .wrap{padding-block:22px 40px;display:grid;gap:16px}
 .result-line{color:var(--muted);font-size:.92rem;margin:0}
-.wall{columns:4 240px;column-gap:16px}
-.tile{break-inside:avoid;margin:0 0 20px;display:block;width:100%;text-align:left;background:none;border:0;padding:0;cursor:zoom-in;color:inherit;font:inherit}
+.wall{display:flex;align-items:flex-start;gap:16px;min-width:0}
+.wall-col{flex:1 1 0;min-width:0}
+.tile{margin:0 0 20px;display:block;width:100%;text-align:left;background:none;border:0;padding:0;cursor:zoom-in;color:inherit;font:inherit}
 .tile img{display:block;width:100%;height:auto;background:var(--soft);border-radius:12px}
 .tile .txt{font-weight:700;font-size:.84rem;line-height:1.25;margin:3px 0 1px;overflow-wrap:anywhere}
 .tile .meta{font-size:.72rem;color:var(--muted);margin:0}
@@ -216,6 +217,25 @@ mark{background:var(--ink);color:var(--bg);padding:0 3px;border-radius:4px}
         <p class="txt">${highlight(p.texte||'',terms)}</p>
         ${p.date?`<p class="meta">${esc(fmtDate(p.date))}</p>`:''}
       </button>`).join('');
+    poser();
+  }
+  // Mur : 4 colonnes au plus, 240 px minimum chacune. Chaque pancarte, de la plus récente à la plus ancienne,
+  // va dans la colonne la moins haute : les plus récentes restent en haut, toutes colonnes confondues.
+  // Les images ont leurs dimensions (width/height) : leur place est connue avant le chargement.
+  let nbCol=0;
+  const compterCol = () => Math.max(1,Math.min(4,Math.floor(($('wall').clientWidth+16)/(240+16))));
+  function poser(){
+    const wall=$('wall');
+    const tiles=[...wall.querySelectorAll('.tile')].sort((a,b)=>a.dataset.i-b.dataset.i);
+    nbCol=compterCol();
+    const cols=Array.from({length:nbCol},()=>{const c=document.createElement('div');c.className='wall-col';return c;});
+    wall.replaceChildren(...cols);
+    const h=cols.map(()=>0);
+    tiles.forEach(t=>{
+      const k=h.indexOf(Math.min(...h));
+      cols[k].append(t);
+      h[k]=cols[k].offsetHeight;
+    });
   }
   // Recherche et mots-clés sont indépendants : taper dans la barre désélectionne les mots-clés.
   q.addEventListener('input',()=>{
@@ -256,6 +276,7 @@ mark{background:var(--ink);color:var(--bg);padding:0 3px;border-radius:4px}
     duo.style.paddingBottom = extra > 0 ? extra + 'px' : '';
   }
   window.addEventListener('resize', caler);
+  window.addEventListener('resize', ()=>{ if(compterCol()!==nbCol) poser(); });
   render();
   caler();
 })();
