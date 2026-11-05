@@ -179,7 +179,8 @@ mark{background:var(--ink);color:var(--bg);padding:0 3px;border-radius:4px}
 
   // Chips
   let active = new Set();
-  const tagList = Object.entries(allTags).sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0],'fr'));
+  // Un mot-clé n'apparaît en pastille qu'à partir de 3 pancartes (il reste trouvable par la recherche).
+  const tagList = Object.entries(allTags).filter(([t,n])=>n>=3).sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0],'fr'));
   $('chips').hidden = !tagList.length;
   $('chips').innerHTML = tagList.map(([t,n])=>`<button type="button" class="chip" aria-pressed="false" data-tag="${esc(t)}">${esc(t)}<span>${n}</span></button>`).join('');
   $('chips').addEventListener('click',e=>{
