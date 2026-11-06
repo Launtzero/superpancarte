@@ -1905,5 +1905,81 @@
     "origine": "auteur",
     "source": "",
     "envoi": "2026-11-06T09:08:43Z"
+  },
+  {
+    "id": "KpKjQkg-1",
+    "image": "KpKjQkg-1.webp",
+    "texte": "Le gouvernement nous pisse dessus, les médias disent qu'il pleut",
+    "tags": [
+      "démocratie",
+      "politique",
+      "jeu de mots",
+      "dessin"
+    ],
+    "ville": "Marseille",
+    "date": "2026-11-06",
+    "cause": "",
+    "w": 878,
+    "h": 800,
+    "alt": "Pancarte bleue peinte avec un parapluie dessiné à Marseille : « Le gouvernement nous pisse dessus, les médias disent qu'il pleut »",
+    "origine": "en ligne",
+    "source": "",
+    "envoi": "2026-11-06T18:17:13Z"
+  },
+  {
+    "id": "KpKjQkg-2",
+    "image": "KpKjQkg-2.webp",
+    "texte": "Si nous brûlons, vous brûlerez avec nous !",
+    "tags": [
+      "démocratie",
+      "détournement",
+      "colère"
+    ],
+    "ville": "Marseille",
+    "date": "2026-11-06",
+    "cause": "",
+    "w": 802,
+    "h": 869,
+    "alt": "Pancarte en carton brandie à bout de bras dans une rue de Marseille : « Si nous brûlons, vous brûlerez avec nous ! »",
+    "origine": "en ligne",
+    "source": "",
+    "envoi": "2026-11-06T18:17:13Z"
+  },
+  {
+    "id": "KpKjQkg-3",
+    "image": "KpKjQkg-3.webp",
+    "texte": "Les feux de (dessin d'une poubelle en feu) ça fait peur…",
+    "tags": [
+      "démocratie",
+      "dessin",
+      "jeu de mots"
+    ],
+    "ville": "Marseille",
+    "date": "2026-11-06",
+    "cause": "",
+    "w": 926,
+    "h": 870,
+    "alt": "Pancarte en carton avec une poubelle en flammes peinte à Marseille : « Les feux de poubelle, ça fait peur… »",
+    "origine": "en ligne",
+    "source": "",
+    "envoi": "2026-11-06T18:17:13Z"
+  },
+  {
+    "id": "KpKjQkg-4",
+    "image": "KpKjQkg-4.webp",
+    "texte": "Vos désirs font désordre",
+    "tags": [
+      "démocratie",
+      "jeu de mots"
+    ],
+    "ville": "Marseille",
+    "date": "2026-11-06",
+    "cause": "",
+    "w": 1050,
+    "h": 1400,
+    "alt": "Pancarte en carton aux lettres bleues et rouges à Marseille : « Vos désirs font désordre »",
+    "origine": "en ligne",
+    "source": "",
+    "envoi": "2026-11-06T18:17:13Z"
   }
 ]
