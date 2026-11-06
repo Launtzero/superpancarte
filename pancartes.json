@@ -1774,5 +1774,117 @@
     "origine": "auteur",
     "source": "",
     "envoi": "2026-11-05T13:48:30Z"
+  },
+  {
+    "id": "0VRzRNB",
+    "image": "0VRzRNB.webp",
+    "texte": "Fascism loading… Please wait",
+    "tags": [
+      "démocratie",
+      "politique",
+      "dessin"
+    ],
+    "ville": "Lyon",
+    "date": "2026-11-05",
+    "cause": "Pouvoir d'achat, étudiants, violences policières",
+    "w": 1400,
+    "h": 1050,
+    "alt": "Pancarte en carton avec une barre de chargement rouge dessinée, brandie dans la foule à Lyon : « Fascism loading… Please wait »",
+    "origine": "auteur",
+    "source": "",
+    "envoi": "2026-11-06T07:20:40Z"
+  },
+  {
+    "id": "X5Pdb5j-1",
+    "image": "X5Pdb5j-1.webp",
+    "texte": "Merci merci — Un avenir serein pour mon bébé",
+    "tags": [
+      "social",
+      "politique"
+    ],
+    "ville": "Lyon",
+    "date": "2026-11-05",
+    "cause": "Pouvoir d'achat, étudiants, violences policières",
+    "w": 1050,
+    "h": 1400,
+    "alt": "Pancarte en carton décorée de cœurs, posée à une fenêtre au passage du cortège à Lyon : « Merci merci — Un avenir serein pour mon bébé »",
+    "origine": "auteur",
+    "source": "",
+    "envoi": "2026-11-06T07:21:18Z"
+  },
+  {
+    "id": "X5Pdb5j-2",
+    "image": "X5Pdb5j-2.webp",
+    "texte": "On a quand même pas pris Bastille pour en faire un Opéra !!!",
+    "tags": [
+      "démocratie",
+      "histoire",
+      "jeu de mots"
+    ],
+    "ville": "Lyon",
+    "date": "2026-11-05",
+    "cause": "Pouvoir d'achat, étudiants, violences policières",
+    "w": 1050,
+    "h": 1400,
+    "alt": "Pancarte en carton écrite en noir et rouge, brandie au-dessus du cortège à Lyon : « On a quand même pas pris Bastille pour en faire un Opéra !!! »",
+    "origine": "auteur",
+    "source": "",
+    "envoi": "2026-11-06T07:21:18Z"
+  },
+  {
+    "id": "X5Pdb5j-3",
+    "image": "X5Pdb5j-3.webp",
+    "texte": "Les riches nous coûtent trop cher",
+    "tags": [
+      "vie chère",
+      "argent",
+      "détournement"
+    ],
+    "ville": "Lyon",
+    "date": "2026-11-05",
+    "cause": "Pouvoir d'achat, étudiants, violences policières",
+    "w": 1400,
+    "h": 1050,
+    "alt": "Grande pancarte en carton aux lettres noires brandie dans la foule à Lyon : « Les riches nous coûtent trop cher »",
+    "origine": "auteur",
+    "source": "",
+    "envoi": "2026-11-06T07:21:18Z"
+  },
+  {
+    "id": "X5Pdb5j-4",
+    "image": "X5Pdb5j-4.webp",
+    "texte": "J'avais peur de venir, et c'est pour ça que je suis là",
+    "tags": [
+      "démocratie",
+      "police"
+    ],
+    "ville": "Lyon",
+    "date": "2026-11-05",
+    "cause": "Pouvoir d'achat, étudiants, violences policières",
+    "w": 1050,
+    "h": 1400,
+    "alt": "Pancarte en carton aux lettres noires tenue à bout de bras sous le ciel à Lyon : « J'avais peur de venir, et c'est pour ça que je suis là »",
+    "origine": "auteur",
+    "source": "",
+    "envoi": "2026-11-06T07:21:18Z"
+  },
+  {
+    "id": "bZQXQy2",
+    "image": "bZQXQy2.webp",
+    "texte": "J'ai quitté mon canapé, c'est dire la gravité",
+    "tags": [
+      "social",
+      "jeu de mots",
+      "dessin"
+    ],
+    "ville": "Lyon",
+    "date": "2026-11-06",
+    "cause": "Pouvoir d'achat, étudiants, violences policières",
+    "w": 1175,
+    "h": 882,
+    "alt": "Pancarte en carton avec un canapé rouge dessiné, brandie dans la foule à Lyon : « J'ai quitté mon canapé, c'est dire la gravité »",
+    "origine": "auteur",
+    "source": "",
+    "envoi": "2026-11-06T07:19:24Z"
   }
 ]
